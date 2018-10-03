@@ -1,0 +1,39 @@
+body{
+    font-family: 'Permanent Marker', cursive;
+    background-color: black
+    
+}
+h1 {
+    display: flex;
+    justify-content: center;
+    color: rgb(8, 242, 250);
+}
+
+h2 {
+    color:  rgb(8, 242, 250);
+}
+   
+
+h3 {
+    color: rgb(8, 242, 250);
+}
+
+
+p {
+    color: rgb(8, 242, 250);
+}
+
+
+ul {
+     color: rgb(8, 242, 250);
+    }  
+
+
+#img-div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;   
+}
+#image{ 
+max-width: 900px;
+}
